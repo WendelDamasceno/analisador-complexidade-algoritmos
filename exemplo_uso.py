@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
-"""
-Exemplos de uso do Analisador de Complexidade de Algoritmos
-"""
+
 
 import os
 import subprocess
 import sys
 
 def executar_comando(comando):
-    """Executa um comando e mostra o resultado"""
+
     print(f"🔍 Executando: {comando}")
     print("="*60)
     try:
@@ -23,7 +21,6 @@ def executar_comando(comando):
 
 def main():
     """Demonstra o uso do analisador com diferentes algoritmos"""
-
     print("🚀 DEMONSTRAÇÃO DO ANALISADOR DE COMPLEXIDADE")
     print("="*60)
 
