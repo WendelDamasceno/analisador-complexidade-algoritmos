@@ -208,4 +208,3 @@ python main.py meu_arquivo.py meu_algoritmo "10,50,100"
 - **O(n³)**: Cúbico - muito lento para entradas grandes
 - **O(2ⁿ)**: Exponencial - impraticável para entradas médias/grandes
 
-```
